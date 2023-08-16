@@ -3,10 +3,13 @@
 Fully functional secured web application for bootcamp providers and participants that want a community to upskill in their respective fields as developers, as well as share knowledge and new trends.
 
 ### Currently the application allows students to login to the application and land on a dashboard that outlines the following :
-  • See what assignments are due, and when
-  • See the status of an assignment that is currently under review and if it needs to be refactored
-  • Way to submit ( or re-submit ) an assignment for review/code review
-  • Getting code feedback from other fellow coders
+  • See what assignments are due, and when.
+  
+  • See the status of an assignment that is currently under review and if it needs to be refactored.
+  
+  • Way to submit ( or re-submit ) an assignment for review/code review.
+  
+  • Getting code feedback from other fellow coders.
 
 # Getting Started with Create React App
 
