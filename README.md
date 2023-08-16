@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Login Page
+
+<img width="1328" alt="Screenshot 2023-08-16 at 15 19 11" src="https://github.com/blastza/blastza_frontend/assets/138633563/2ac1cd21-37f5-4803-b2cf-6b833fed7da2">
+
+### Dashboard Page
+
+<img width="740" alt="Screenshot 2023-08-16 at 15 20 54" src="https://github.com/blastza/blastza_frontend/assets/138633563/274c78ab-6aa1-4000-822e-c841b62fe1a1">
+
+### Assignment Page
+
+<img width="697" alt="Screenshot 2023-08-16 at 15 22 08" src="https://github.com/blastza/blastza_frontend/assets/138633563/cc16aa80-356d-41b8-90d9-49545b9389ed">
+
+
+
+
+
+
+
+
+
